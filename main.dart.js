@@ -75791,7 +75791,7 @@ A.v3.prototype={
 aj(){return new A.MH(B.k)}}
 A.MH.prototype={
 Wn(a){var s="assets/corning_logo.png",r=null
-if(a.b<800)return A.akk(!0,0,r,r,A.alE(s,40))
+if(a.b<1080)return A.akk(!0,0,r,r,A.alE(s,40))
 else return A.akk(r,0,new A.bV(B.Cg,A.alE(s,r),r),262,r)},
 J(a){var s=null
 return new A.x8(new A.HD(new A.vr(new A.aac(this),s),B.L2,s),A.Ir(!0,new A.vr(new A.aad(this),s),!0,!0,!0),s)},
@@ -75803,7 +75803,7 @@ $2(a,b){return this.a.Wn(b)},
 $S:445}
 A.aad.prototype={
 $2(a,b){var s=this.a,r=t.p,q=s.d
-if(b.b<800)return A.j9(A.b([A.XF(s.GB(q)),new A.GH(s.d,B.Fb,new A.aaa(s),null)],r),B.aE,B.ba,B.bk)
+if(b.b<1080)return A.j9(A.b([A.XF(s.GB(q)),new A.GH(s.d,B.Fb,new A.aaa(s),null)],r),B.aE,B.ba,B.bk)
 else return A.Il(A.b([new A.w1(!0,B.L4,B.Fc,q,new A.aab(s),B.j5,275,null),A.XF(new A.Dv(B.lP,s.GB(q),null))],r),B.aE,B.bk)},
 $S:446}
 A.aaa.prototype={
